@@ -7,3 +7,7 @@ Course Notebook:
 - [Section 2](DATA_441_Module_1_Section_1.ipynb)  
 - [Section 3](DATA_441_Module_1_Section_1.ipynb)  
 - [Section 4](DATA_441_Module_1_Section_1.ipynb)  
+
+```Python
+import numpy as np
+```

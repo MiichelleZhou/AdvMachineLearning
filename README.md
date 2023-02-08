@@ -1,2 +1,3 @@
 # Advanced Machine Learning
-## Chapter1: Introduction to Locally Weighted Regression 
+## Chapter1
+Introduction to Locally Weighted Regression 
